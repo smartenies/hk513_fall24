@@ -12,4 +12,10 @@ of engaging in the course.
 ### File Inventory
 This repository includes the following scripts and files:
 
-    - 
+    - **code/01_data_cleaning.R** : A script for cleaning the data set. *Note: 
+    the raw data used in this script are identifiable and not publicly available. 
+    The code is provided for information purposes only.*
+    - **code/02_data_analysis.R** : A script for summarizing the data 
+    - **code/03_data_viz.R** : A script for generating the data visualzations
+    - **data/clean_data.csv** : The clean, deidentified data using in this analysis
+    
