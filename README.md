@@ -12,10 +12,18 @@ of engaging in the course.
 ### File Inventory
 This repository includes the following scripts and files:
 
-    - **code/01_data_cleaning.R** : A script for cleaning the data set. *Note: 
+- **code/01_data_cleaning.R**: A script for cleaning the data set. *Note: 
     the raw data used in this script are identifiable and not publicly available. 
     The code is provided for information purposes only.*
-    - **code/02_data_analysis.R** : A script for summarizing the data 
-    - **code/03_data_viz.R** : A script for generating the data visualzations
-    - **data/clean_data.csv** : The clean, deidentified data using in this analysis
+- **code/02_data_analysis.R**: A script for summarizing the clean data set 
+- **code/03_data_viz.R**: A script for generating the data visualizations 
+presented in the manuscript
+- **data/clean_data.csv**: The clean, deidentified data using in this analysis. 
+    *Note: the raw data set contains identifiable data and is not publicly 
+    available.*
+- **documentation/data_dictionary.xlsx**: The data dictionary for the clean data 
+set (clean_data.csv)
+- **manuscripts/Martenies_HK513_Competency_Analysis Manuscript v1.docx**: An 
+example manuscript draft based on the results of this analysis.
+
     
