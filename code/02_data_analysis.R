@@ -40,6 +40,13 @@ sum(!is.na(data$exp_r_pre))
 median(data$exp_r_pre)
 IQR(data$exp_r_pre)
 
+#' ----------------------------
+#' Confidence in completing data management tasks in R
+#' 1 = not confident at all, 4 = very confident
+#' ----------------------------
+#' Summarize pre- and post- scores
+
+
 #' Summarize pre- and post- scores
 data_long_post <- data %>%
   pivot_longer(cols = ends_with("_post"), 
