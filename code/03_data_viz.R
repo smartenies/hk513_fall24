@@ -6,6 +6,8 @@
 #' Description: This script is used to generate Figure 1 in the mansucript 
 #' presenting the number of students who reported meeting their semester goals
 #' for the course.
+#' 
+#' Add a note here.
 #' -----------------------------------------------------------------------------
 
 library(tidyverse)
